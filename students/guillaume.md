@@ -1,5 +1,5 @@
 # guillaume
-![guillaume](../images/guillaume.png)
+![guillaume](../images/guillaume.jpg)
 
 bonjour à tous
 
