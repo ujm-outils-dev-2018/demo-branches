@@ -2,4 +2,8 @@
 
 * [LHOSTE Mickaël](students/mlhoste.md "Mickaël LHOSTE, mlhoste pour les intimes...")
 
-*[10E](sudents/10E.md"le 10E")
+* [CONTINI Enzo](students/econtini.md "Enzo CONTINI, zizou pour les intimes...")
+
+* [Guillaume](students/guillaume.md "")
+
+* [10E](sudents/10E.md "le 10E")
