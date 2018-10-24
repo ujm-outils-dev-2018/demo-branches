@@ -7,3 +7,4 @@
 * [Guillaume](students/guillaume.md "")
 * [10E](students/10E.md "le 10E voila")
 * [MALLET Jonathan](students/jmallet.md "Jonathan MALLET, jmallet")
+* [Nico](students/nicolas.md "Nicolas")
