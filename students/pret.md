@@ -1,4 +1,4 @@
 ﻿# XIA Jin
-![XIA JIN](../images/pret.png)
+![XIA JIN](../images/pret.jpg)
 
 coucou
