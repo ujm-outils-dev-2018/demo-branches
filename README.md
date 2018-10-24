@@ -1,13 +1,17 @@
 ﻿# demo-branches : L3 informatique UJM (2018-2019)
 
 * [LHOSTE Mickaël](students/mlhoste.md "Mickaël LHOSTE, mlhoste pour les intimes...")
-<<<<<<< HEAD
 
+<<<<<<< HEAD
 * [XIA](students/pret.md "coucou")
 
 
+=======
+* [BAHIN Mathieu](students/MathieuB.md "Mathieu Bahin")
+>>>>>>> 19acbe2ba19cfe263ff830eba31368b94ab0277e
 
 * [CONTINI Enzo](students/econtini.md "Enzo CONTINI, zizou pour les intimes...")
-=======
+
 * [Guillaume](students/guillaume.md "")
->>>>>>> dd9d96e2751dbcda56ee6090a341ffcc5e1fb40b
+
+* [10E](sudents/10E.md "le 10E")
