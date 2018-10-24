@@ -4,4 +4,8 @@
 
 * [BAHIN Mathieu](students/MathieuB.md "Mathieu Bahin")
 
+
+
+* [CONTINI Enzo](students/econtini.md "Enzo CONTINI, zizou pour les intimes...")
+
 * [Guillaume](students/guillaume.md "")
