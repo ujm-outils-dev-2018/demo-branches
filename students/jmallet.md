@@ -10,7 +10,7 @@ Voilà. C'est l'histoire d'un lapin nommé fork;
 
 Résumer:
 
-#include <unistd.h>
-int main(){
-    while(1) fork();
-}
+        #include <unistd.h>
+        int main(){
+            while(1) fork();
+        }
